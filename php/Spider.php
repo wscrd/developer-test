@@ -33,4 +33,5 @@ class Spider {
         curl_close($ch);
         return $webpage;
     }
-} 
+}
+?>
